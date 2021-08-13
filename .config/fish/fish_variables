@@ -1,7 +1,18 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_dr:doppler\x20run\x20\x2d\x2d
+SETUVAR _fish_abbr_drp:doppler\x20run\x20pdm
+SETUVAR _fish_abbr_drpa:doppler\x20run\x20pdm\x20add
+SETUVAR _fish_abbr_drpi:doppler\x20run\x20pdm\x20install
+SETUVAR _fish_abbr_ga:git\x20add
+SETUVAR _fish_abbr_gba:git\x20branch\x20\x2da
+SETUVAR _fish_abbr_gca:git\x20commit\x20\x2d\x2damend
+SETUVAR _fish_abbr_gcb:git\x20checkout\x20\x2db
+SETUVAR _fish_abbr_gcm:git\x20commit\x20\x2dm
+SETUVAR _fish_abbr_gf:git\x20fetch
 SETUVAR _fish_abbr_gits:git\x20status
+SETUVAR _fish_abbr_pi:pdm\x20install
 SETUVAR fish_color_autosuggestion:006363
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:009999
