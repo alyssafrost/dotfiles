@@ -8,3 +8,7 @@ set PATH $PATH /home/frost7/.local/bin
 
 # Created by `pipx` on 2021-08-13 14:35:01
 set PATH $PATH /home/svving/.local/bin
+
+# Please mount my C file without me
+
+sudo mount -t drvfs C: /mnt/c
